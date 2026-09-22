@@ -4,5 +4,6 @@ module ni.edu.uam.evaluacion {
 
 
     opens ni.edu.uam.evaluacion to javafx.fxml;
-    exports ni.edu.uam.evaluacion;
+    exports ni.edu.uam.evaluacion.modelo;
+    exports ni.edu.uam.evaluacion.repository;
 }
