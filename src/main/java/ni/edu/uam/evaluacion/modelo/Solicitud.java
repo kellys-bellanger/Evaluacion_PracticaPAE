@@ -1,4 +1,4 @@
-package evaluacion.modelo;
+package ni.edu.uam.evaluacion.modelo;
 
 import java.time.LocalDate;
 
